@@ -32,5 +32,11 @@
     "@types/react-test-renderer": "^18.0.0",
     "typescript": "^5.0.2"
   },
-  "private": true
+  "private": true,
+  "description": "find jobs using this app",
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Richard Bentil",
+  "license": "MIT"
 }
